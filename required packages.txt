@@ -1,0 +1,7 @@
+flask
+xgboost
+google-cloud-storage
+shap
+python-dotenv
+tenacity
+docker
